@@ -14,3 +14,4 @@ This Python project reads sales data from a CSV file and creates an Excel summar
 ```bash
 pip install pandas openpyxl
 python main.py
+```
